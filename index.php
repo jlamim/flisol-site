@@ -12,25 +12,25 @@ $page = $route;
 switch ($route) {
     case '':
         $page = 'principal';
-        $title = 'Flisol Santos 2015';
+        $title = 'Flisol Vila Velha 2015';
         break;
     case 'principal':
-        $title = 'Flisol Santos 2015';
+        $title = 'Flisol Vila Velha 2015';
         break;
     case 'flisol':
         $title = 'Sobre o Flisol';
         break;
     case 'programacao':
-        $title = 'Programação | Flisol Santos 2015';
+        $title = 'Programação | Flisol Vila Velha 2015';
         break;
     case 'local':
-        $title = 'Local | Flisol Santos 2015';
+        $title = 'Local | Flisol Vila Velha 2015';
         break;
     case 'organizadores':
-        $title = 'Organizadores | Flisol Santos 2015';
+        $title = 'Organizadores & Apoiadores | Flisol Vila Velha 2015';
         break;
     case 'fotos':
-        $titulo = 'Fotos | Flisol Santos 2015';
+        $titulo = 'Fotos | Flisol Vila Velha 2015';
         break;
     default:
         $page = '404';

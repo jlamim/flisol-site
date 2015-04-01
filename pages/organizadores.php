@@ -1,31 +1,37 @@
-<h2>O GCC-SD</h2>
+<h2>A CCDVV</h2>
 
 <p>
-    O <a href="http://gccsd.com.br" title="Blog do GCC-SD"><strong>Grupo de Compartilhamento do Conhecimento Santos Dumont</strong></a>
-    é um grupo formado principalmente por usuários de software livre e que tem como objetivo a
-    troca de conhecimento e informações entre os membros.
+    A <a href="http://www.ccdvv.com.br">CCDVV</a>, acrônimo de Casa de Cultura Digital Vila Velha é um hub criativo localizado Vila Velha, Espírito Santo em que ativistas, coletivos, profissionais das mais diversas áreas, hackers e cidadãos em geral desenvolvem e promovem suas iniciativas ligadas ao campo da cultura digital como workshops, hackdays, cursos, encontros e desenvolvimento de software, robótica, automação e muitas outras atividades ligas a tecnologia e cultura digital.
 </p>
 
-<p class="center">
-    <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
-        <img src="<?php echo URL; ?>assets/images/gccsd.png" alt="GCCSD" />
-    </a>
-</p>
+<br/>
 
-<h2>Como o Grupo Surgiu?</h2>
+<h2>CEET Vasco Coutinho</h2>
 
-<p>O Grupo de Compartilhamento do Conhecimento Santos Dumont surgiu em 2007 para a preparação do primeiro Flisol em Santos. Na época o grupo ainda não tinha esse nome e os únicos membros que participaram daquele Flisol e que continuaram participando dos encontros do grupo foram o <a href="http://evaldojunior.com" title="Site do InFog">InFog</a> e o <a href="http://kretcheu.com.br" title="Kretcheu Vídeo Blog">Kretcheu</a>.</p>
+<p>O Centro Estadual de Educação Técnica (CEET) Vasco Coutinho é uma instituição de Educação Profissional criada e mantida pelo Governo do Estado do Espírito Santo, com o objetivo de oferecer Educação Profissional, de acordo com o Sistema de Educação Profissional do Estado, em cumprimento aos objetivos estabelecidos pelo Plano Estadual de Educação Profissional do Estado do Espírito Santo - PEP/ES.</p>
 
-<p>E foi durante 2007 que o grupo foi batizado de <strong>GCC Santos Dumont</strong>. Antes disso algumas outras opções de nome foram consideradas, já que nós não queriamos seguir o velho padrão GUSLXX (Grupo de Usuários de Software Livre de “Algum Lugar”). Um dos nomes sugeridos foi Marruá, que na cultura nordestina é usado para definir os cavalos selvagens que nunca foram domados, por isso não livres. É um ótimo nome, com um significado muito legal para o grupo, mas a opinião dos membros foi de que le não soava bem.</p>
+<p>Saiba mais em <a href="http://www.ceetvascocoutinho.com.br/">www.ceetvascocoutinho.com.br</a>.</p>
 
-<p>Já no ano de 2008 para a realização do segundo Flisol contamos com a participação de mais pessoas, como é o caso do Sprity e do <a href="http://blog.thiagofazzio.com.br" title="Blog do Guariní">Guariní</a>, que se juntou ao grupo após uma palestra de software livre realizada pelo Kretcheu na Unimonte.</p>
+<br/>
 
-<p>Durante o ano de 2008, o grupo teve a participação de apenas três membros, Guariní, InFog e Kretcheu. Tudo bem que lá de vez em quando aparecia algum rosto novo, mas isso aconteceu uma ou duas vezes.</p>
+<h2>Comunidade Mozilla Brasil</h2>
 
-<p>No Flisol de 2009 novos membros se juntaram ao grupo, um deles é o <a href="http://mudandoparaolinux.blogspot.com" title="Mudando para o Linux">Phoenix</a>.</p>
+<p>Somos um grupo de pessoas interessadas em contribuir com a <a href="http://www.mozilla.org/about/mission.html">missão da Mozilla</a> no Brasil. Não temos a pretensão de representar a Fundação ou a Corporação <a href="https://www.mozilla.org/?utm_source=wordpress%20blog&amp;utm_medium=content%20link&amp;utm_campaign=promote%20mdn">Mozilla</a>. Somos apenas uma comunidade de entusiastas  alinhados com os valores do projeto e tentando levar estes valores de abertura, liberdade e inovação adiante.</p>
 
-<p>Durante 2010 o grupo cresceu mais, dentre os novos membros está o <a href="http://twitter.com/DiegoSouza9" title="Twitter do Apu">Apu</a>, que contribuiu com as ideias para os nossos dojos. Hoje temos mais de 130 acessociados em nossa <a href="https://groups.google.com/forum/#!forum/gcc-sd" title="Lista do GCCSD">lista de discussão</a>, que anda bem movimentada.</p>
+<p>Este é um grupo feito por pessoas que já contribuem ha algum tempo com o projeto e que acreditam que existe espaço para novos esforços de colaboração.</p>
 
-<h2>Sobre o nome</h2>
+<p>Queremos inspirar, ajudar e emancipar outras pessoas e grupos para que possam abraçar esta missão e colaborar com os produtos e projetos livres da Mozilla.</p>
 
-<p>O nome GCCSD faz alusão ao famoso <a href="http://gcc.gnu.org/" title="GCC">Gnu C Compiler (GCC)</a>, o compilador de C do projeto Gnu, e homenageia <a href="https://pt.wikipedia.org/wiki/Santos_Dumont" title="Santos Dumont na Wikipedia">Santos Dumont (SD)</a> pois ele não patenteava suas invenções, acreditando que o progresso deve acontecer à toda a humanidade e não apenas à algumas pessoas.</p>
+<p>Nossa filosofia é a de que ações valem mais do que palavras. O nosso foco é mais no fazer e menos no falar.</p>
+
+<p>Saiba mais sobre a comunidade em <a href="http://mozillabrasil.org.br">www.mozillabrasil.org.br</a>.</p>
+
+<br/>
+
+<h2>Rede Espírito Livre</h2>
+
+<p>A Iniciativa ESPÍRITO LIVRE (IEL) é uma associação civil sem fins-lucrativos (em fase de criação), com sede em Cariacica/ES. Reune como colaboradores, técnicos, profissionais liberais, entusiastas, estudantes, empresário e funcionários públicos, e tem como objetivos estreitar os laços do software livre e outras iniciativas e vertentes sócio-culturais de cunho similar para com a sociedade de um modo geral. Tem ainda por objetivo tornar o software livre difundido amplamente em nossa sociedade, não somente em nosso entorno mas nos diversos setores de nossa sociedade como o poder público e privado, escolas e universidades, grupos de usuários, empresas, instituições do terceiro setor, entre outros, tornando possível e real sua utilização, propiciando espaços de discussão, fomento, apoio e organização de iniciativas nas mais diversas áreas relacionadas, como eventos e outras formas sociais de forma a atingir os objetivos acima citados.</p>
+
+<p>Saiba mais em <a href="http://www.espiritolivre.org/">www.espiritolivre.org</a>.</p>
+
+<br/>

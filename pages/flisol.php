@@ -1,34 +1,18 @@
 <h2>Saiba mais sobre o Flisol</h2>
 
 <p>
-    O <a href="<?php echo URL; ?>organizadores" title="Site do GCCSD">GCCSD</a> traz para Santos,
-    pelo nono ano, o <strong>Festival Latino Americano de Instalação de Software Livre</strong>
-    (<strong>Flisol</strong>). O Flisol é um evento internacional, realizado anualmente, e que ocorre
-    de forma simultânea em diversas cidades da América Latina. O Flisol é um evento descentralizado,
-    onde cada local escolhido realiza seu festival simultaneamente com os outros pontos espalhados
-    pela América Latina.
-</p>
-
-<p>
-    O evento é livre, nesse dia há a instalação de <strong>Software Livre</strong>, como distribuições
-    de <strong>Gnu/Linux</strong>, <strong>sistemas BSD</strong>, e aplicativos livres para Windows em
-    geral, além de palestras e oficinas.
+    O Festival Latino-americano de Instalação de Software Livre (FLISoL) é o maior evento da América-latina de divulgação de Software Livre. Ele é realizado desde o ano de 2005, e desde 2008 sua realização acontece no 4o. sábado de abril de cada ano.
 </p>
 
 <h2>Objetivo do evento</h2>
 
 <p>
-    O objetivo do Flisol é promover o uso de software livre em geral, além de criar interações entre
-    usuários e desenvolvedores.
+    Seu principal objetivo é promover o uso de Software Livre, mostrando ao público em geral sua filosofia, abrangência, avanços e desenvolvimento.
 </p>
 
-<h2>Mais sobre o evento</h2>
-
-<p>O <strong>FLISOL</strong> acontece simultaneamente em diversos países da América Latina, inclusive no Brasil. Santos receberá sua sexta edição neste ano. Para esse fim as diversas comunidades locais de Software Livre em cada país, cidade ou localidade, organizam simultaneamente eventos em que se instala, de maneira gratuita e totalmente legal, softwares livres nos computadores dos participantes que se interessarem. Também são oferecidos mini cursos e palestras em torno de temas que envolvem o Software Livre em todas suas expressões: artística, acadêmica, empresarial e social.</p>
-
-<h2>Quem organiza o FLISOL ?</h2>
-
-<p>As comunidades de Software Livre na América Latina, formadas por pessoas e grupos de diversas áreas, com o apoio de outras entidades, principalmente educacionais e patrocinadores. Em Santos o Grupo do Compartilhamento do Conhecimento Santos Dumont (GCC-SD) é o responsável pela organização.</p>
+<p>
+    Para alcançar estes objetivos, diversas comunidades locais de Software Livre (em casa país/cidade/localidade), organizam simultâneamente eventos em que se instala, de maneira gratuita e totalmente legal, Software Livre nos computadores dos participantes. Além disso, paralelamente acontecempalestras, apresentações e workshops, sobre temas locais, nacionais e latino-americanos sobre Software Livre, em toda a sua expressão: artística, acadêmica, empresarial e social.
+</p>
 
 <h2>A quem o evento é dirigido ?</h2>
 
